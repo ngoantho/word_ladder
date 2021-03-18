@@ -1,1 +1,1 @@
-web: voila —-port=$PORT --no-browser --enable_nbextensions=True notebooks/Notebook.ipynb
+web: voila —-port=$PORT --no-browser --enable_nbextensions=True Notebook.ipynb
